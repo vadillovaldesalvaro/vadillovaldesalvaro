@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Álvaro from Madrid, Spain<br><br>- 🔭 I’m working as Web Developer<br>- ⚡In my free time I study new methodologies, languages ​​and frameworks while advancing with personal projects in which to implement them.<br><br>- 🏢 Everyday functions Coding, Maintenance, Troubleshooting, Documentation, Testing and debugging.</p>
+<p align="left">I'm Álvaro from Madrid, Spain<br><br>- 🔭 I’m working as Web Developer | PHP<br>- ⚡In my free time I study new methodologies, languages ​​and frameworks while advancing with personal projects in which to implement them.<br><br>- 🏢 Everyday functions Coding, Maintenance, Troubleshooting, Documentation, Testing and debugging.</p>
 
 ###
 
